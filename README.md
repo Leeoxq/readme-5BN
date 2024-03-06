@@ -53,6 +53,7 @@ Em construçâo...
 ## Features
 - [x]README - Padrões de Documentação
 - [ ]README - Usando SSH
+- [x]Teste
 
 ## Pré Requisitos
 Você precisa ter instalado:
